@@ -7,3 +7,5 @@ sentencepiece==0.1.91
 torch==1.5.1
 transformers==2.11.0
 widgetsnbextension==3.5.1
+sumy
+tinysegmenter
